@@ -33,7 +33,7 @@ TARGET_USE_ION_COMPAT := true
 TARGET_USE_QCOM_BIONIC_OPTIMIZATION := true
 TARGET_USE_KRAIT_BIONIC_OPTIMIZATION := true
 TARGET_USE_KRAIT_PLD_SET := true
-Fast_Math := true
+#Fast_Math := true
 #Link_Time_Optimizations := true
 
 TARGET_NO_BOOTLOADER := true
